@@ -1,2 +1,2 @@
-# dropdown
+# Dropdown Plugin for selectboxes
 Dropdown Plugin
