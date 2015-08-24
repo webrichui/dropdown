@@ -1,2 +1,1 @@
-# Dropdown Plugin for selectboxes
-Dropdown Plugin
+Selectbox UI Plugin
